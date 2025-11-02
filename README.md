@@ -4,4 +4,4 @@ Hello and welcome to my private math pages. My name is Mike Winkler, also known 
 
 ## Have fun reading and exploring this website.
 
-# Mike Winkler
+### Mike Winkler
